@@ -1,10 +1,12 @@
 ## Project 1: Software Analysis and Design for Trading Cryptocurrency (Final Year Project, IIT Roorkee)
-To Download the complete report: [Project_Report.pdf](./B_Tech_Project_Final_Report.pdf)
+To Download the complete PDF: [Project Report](./B_Tech_Project_Final_Report.pdf)
 
 ```markdown
-• Identify effective cryptocurrency trading strategies by analyzing traditional (e.g., SMAC, EMAC, RSI, MACD, Buy-and-Hold) and custom strategies using machine learning models (e.g., Logistic Regression, Random Forest, SVC, KNN, Neural Networks).  
-• Evaluate strategies using metrics like Sharpe Ratio and Profit Per Day, leveraging visualizations to compare and identify top-performing approaches.  
-• Tools: BeautifulSoup (web scraping), Fastquant (backtesting), Sklearn & PyTorch (machine learning), Matplotlib (visualization).  
+• Goal: Identify profitable cryptocurrency trading strategies.  
+• Methods: Traditional (e.g., SMAC, EMAC, RSI, MACD, Buy-and-Hold) and machine learning models (Logistic Regression, Random Forest, SVC, KNN, Neural Networks).  
+• Evaluation: Profit-per-day metric with visual comparisons.  
+• Conclusion: SMAC(5,15) and Buy-and-Hold yield the highest median of 4.2 profit-per-day.  
+• Tools: BeautifulSoup (scraping), Fastquant (backtesting), Sklearn & PyTorch (ML), Matplotlib (visualization).  
 ```
 Profit per Day comparison for traditional strategies<br>
 ![](/images/traditional_ppd.png)
