@@ -1,4 +1,4 @@
-# Awards
+# AWARDS
 
 ## MIT COVID19 CHALLENGE
 
