@@ -6,6 +6,8 @@ Website for challenge: [covid19challenge.mit.edu](https://covid19challenge.mit.e
 
 Task: Build solutions for India in the COVID-19 crisis.
 
+Solution: Designed an AI-powered IVRS helpline, Suraksha Didi, for offline COVID-19 information access.
+
 Cash Prize: Team got $500 prize money.
 
 Congratulations to the Winning Teams:
