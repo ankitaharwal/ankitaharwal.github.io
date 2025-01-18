@@ -10,10 +10,10 @@ To Download the complete PDF: [Project Report](./B_Tech_Project_Final_Report.pdf
 - Conclusion: SMAC(5,15) and Buy-and-Hold yield the highest median of 4.2 profit-per-day.  
 - Tools: BeautifulSoup (scraping), Fastquant (backtesting), Sklearn & PyTorch (ML), Matplotlib (visualization).  
 <!-- ``` -->
-Profit per Day comparison for traditional strategies<br>
+- Profit per Day comparison for traditional strategies<br>
 ![](/images/traditional_ppd.png)
 
-Profit per Day comparison for machine learning strategies
+- Profit per Day comparison for machine learning strategies
 ![](/images/ml_ppd.png)
 
 ## Project 2: [Decision Tree Steroid](https://github.com/ankitaharwal/Decision_Tree-Steroid) (Data Science Group, IIT Roorkee)
@@ -31,11 +31,11 @@ of each node such as impurity, class distribution, etc.
 - Whole Tree structure can viewed in graphical format.
 - Tools: Python (SK learn) and graphviz.
 <!-- ``` -->
-This is a screenshot of a working decision tree.<br>
-![](/images/decision_tree.png)
+- Working decision tree with only standard node:<br>
+  ![](/images/decision_tree.png)
 
-This is another screenshot of classification with logistic regression and standard node.
-![](/images/working2.png)
+- Classification with logistic regression and standard node:
+  ![](/images/working2.png)
 
 ## Project 3: [D2l-PyTorch](https://github.com/dsgiitr/d2l-pytorch), Data Science Group, IIT Roorkee
 To verify this certificate visit: [Link](https://ecertificate.iitr.ac.in/verification/419fffae-e64d-46bc-930e-8b2e8f0e1df2)
@@ -48,8 +48,8 @@ Jhang et al.
 forks).
 - Tools: Python(Pytorch).
 <!-- ``` -->
-
-![](/images/d2l.png)
+- Logo and description of the repo:
+  ![](/images/d2l.png)
 
 
 
@@ -64,8 +64,9 @@ purposes.
 (openCV) and outputs the digits (OCR).
 - Tools: Pytorch, openCV and YOLO.
 <!-- ``` -->
-![](/images/car.png)
+- Working Sample:
+  ![](/images/car.png)
 
-![](/images/plate.png)
+  ![](/images/plate.png)
 
-![](/images/term.png)
+  ![](/images/term.png)
