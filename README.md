@@ -15,7 +15,7 @@ Profit per Day comparison for machine learning strategies
 ![](/images/ml_ppd.png)
 
 ## Project 2: [Decision Tree Steroid](https://github.com/ankitaharwal/Decision_Tree-Steroid) (Data Science Group, IIT Roorkee)
-To verify this certificate visit: [https://ecertificate.iitr.ac.in/verification/6694e25f-3ec0-48b7-a168-c469dfd30ed7](https://ecertificate.iitr.ac.in/verification/6694e25f-3ec0-48b7-a168-c469dfd30ed7)
+To verify this certificate visit: [Link](https://ecertificate.iitr.ac.in/verification/6694e25f-3ec0-48b7-a168-c469dfd30ed7)
 
 ```markdown
 • Variant of Advanced Decision Tree from scratch.
@@ -36,7 +36,7 @@ This is another screenshot of classification with logistic regression and standa
 ![](/images/working2.png)
 
 ## Project 3: [D2l-PyTorch](https://github.com/dsgiitr/d2l-pytorch), Data Science Group, IIT Roorkee
-To verify this certificate visit: [https://ecertificate.iitr.ac.in/verification/419fffae-e64d-46bc-930e-8b2e8f0e1df2](https://ecertificate.iitr.ac.in/verification/419fffae-e64d-46bc-930e-8b2e8f0e1df2)
+To verify this certificate visit: [Link](https://ecertificate.iitr.ac.in/verification/419fffae-e64d-46bc-930e-8b2e8f0e1df2)
 
 ```markdown
 • Ported MXNet Code into Pytorch for the book Dive Into Deep Learning by Aston
@@ -53,7 +53,7 @@ forks).
 
 
 ## Project 4: [Number plate Detection](https://github.com/dsgiitr/np_detection), Data Science Group, IIT Roorkee
-To verify this certificate visit: [https://ecertificate.iitr.ac.in/verification/2c5c8c95-0dd6-4ab2-bed7-8e74ded1812d](https://ecertificate.iitr.ac.in/verification/2c5c8c95-0dd6-4ab2-bed7-8e74ded1812d)
+To verify this certificate visit: [Link](https://ecertificate.iitr.ac.in/verification/2c5c8c95-0dd6-4ab2-bed7-8e74ded1812d)
 
 ```markdown
 • Detect vehicles and record their number plates from CCTV cameras for security
