@@ -1,3 +1,5 @@
+# PROJECTS
+
 ## Project 1: Software Analysis and Design for Trading Cryptocurrency (Final Year Project, IIT Roorkee)
 To Download the complete PDF: [Project Report](./B_Tech_Project_Final_Report.pdf)
 
