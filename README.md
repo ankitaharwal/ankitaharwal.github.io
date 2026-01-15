@@ -1,6 +1,28 @@
 # PROJECTS
 
-## Project 1: Software Analysis and Design for Trading Cryptocurrency (Final Year Project, IIT Roorkee)
+## Project 1: YouTube Channel Acquisition System
+To view the complete documentation: [Project README](./README_for_youtube_scrapper.md)
+
+<!-- ```markdown -->
+- Goal: Automated discovery and acquisition of inactive Indian YouTube channels as digital assets.
+- Phase 1: AI-powered keyword generation with dual-mode scraping (channel-first + video-first discovery).
+- Advanced filtering for inactivity (90-730 days), quality assessment, and contact information extraction.
+- Target: 50K-1M subscriber channels with transferable, evergreen content and valid contact information.
+- Tools: FastAPI (backend), n8n (automation workflow), YouTube Data API (25+ keys), Pandas (data processing).
+<!-- ``` -->
+- Complete workflow visualization from keyword generation to channel discovery<br>
+  ![](./images/workflow%20visualization.png)
+
+- AI-powered keyword generation targeting inactive channels<br>
+  ![](./images/input%20to%20generate%20keywords.png)
+
+- Smart keyword creation with behavioral pattern analysis<br>
+  ![](./images/generated%20keywords.png)
+
+- Comprehensive channel data with contact information and acquisition potential<br>
+  ![](./images/final%20output%20scrapped%20channels.png)
+
+## Project 2: Software Analysis and Design for Trading Cryptocurrency (Final Year Project, IIT Roorkee)
 To Download the complete PDF: [Project Report](./B_Tech_Project_Final_Report.pdf)
 
 <!-- ```markdown -->
@@ -11,12 +33,12 @@ To Download the complete PDF: [Project Report](./B_Tech_Project_Final_Report.pdf
 - Tools: BeautifulSoup (scraping), Fastquant (backtesting), Sklearn & PyTorch (ML), Matplotlib (visualization).  
 <!-- ``` -->
 - Profit per Day comparison for traditional strategies<br>
-![](/images/traditional_ppd.png)
+![](./images/traditional_ppd.png)
 
 - Profit per Day comparison for machine learning strategies
-![](/images/ml_ppd.png)
+![](./images/ml_ppd.png)
 
-## Project 2: [Decision Tree Steroid](https://github.com/ankitaharwal/Decision_Tree-Steroid) (Data Science Group, IIT Roorkee)
+## Project 3: [Decision Tree Steroid](https://github.com/ankitaharwal/Decision_Tree-Steroid) (Data Science Group, IIT Roorkee)
 To verify this certificate visit: [Link](https://ecertificate.iitr.ac.in/verification/6694e25f-3ec0-48b7-a168-c469dfd30ed7)
 
 <!-- ```markdown -->
@@ -32,12 +54,12 @@ of each node such as impurity, class distribution, etc.
 - Tools: Python (SK learn) and graphviz.
 <!-- ``` -->
 - Working decision tree with only standard node:<br>
-  ![](/images/decision_tree.png)
+  ![](./images/decision_tree.png)
 
 - Classification with logistic regression and standard node:
-  ![](/images/working2.png)
+  ![](./images/working2.png)
 
-## Project 3: [D2l-PyTorch](https://github.com/dsgiitr/d2l-pytorch), Data Science Group, IIT Roorkee
+## Project 4: [D2l-PyTorch](https://github.com/dsgiitr/d2l-pytorch), Data Science Group, IIT Roorkee
 To verify this certificate visit: [Link](https://ecertificate.iitr.ac.in/verification/419fffae-e64d-46bc-930e-8b2e8f0e1df2)
 
 <!-- ```markdown -->
@@ -49,12 +71,12 @@ forks).
 - Tools: Python(Pytorch).
 <!-- ``` -->
 - Logo and description of the repo:
-  ![](/images/d2l.png)
+  ![](./images/d2l.png)
 
 
 
 
-## Project 4: [Number plate Detection](https://github.com/dsgiitr/np_detection), Data Science Group, IIT Roorkee
+## Project 5: [Number plate Detection](https://github.com/dsgiitr/np_detection), Data Science Group, IIT Roorkee
 To verify this certificate visit: [Link](https://ecertificate.iitr.ac.in/verification/2c5c8c95-0dd6-4ab2-bed7-8e74ded1812d)
 
 <!-- ```markdown -->
@@ -65,8 +87,8 @@ purposes.
 - Tools: Pytorch, openCV and YOLO.
 <!-- ``` -->
 - Working Sample:
-  ![](/images/car.png)
+  ![](./images/car.png)
 
-  ![](/images/plate.png)
+  ![](./images/plate.png)
 
-  ![](/images/term.png)
+  ![](./images/term.png)
