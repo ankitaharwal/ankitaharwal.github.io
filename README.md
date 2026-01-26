@@ -1,6 +1,25 @@
 # PROJECTS
 
-## Project 1: YouTube Channel Acquisition System
+## Project 1: EdgeAICam - Minimal Person Detection for Edge AI Applications
+To view the complete documentation: [Project README](./README_for_EdgeAiCam.md)
+
+<!-- ```markdown -->
+- Goal: Lightweight, real-time person detection system optimized for edge AI and computer vision business applications.
+- Key Features: Fast and efficient YOLOv8n model (12MB), real-time detection (4-10 FPS), advanced visualization with bounding boxes and trajectory tracking, 30-frame trajectory buffer with continuity constraints.
+- Business Applications: Retail analytics, smart surveillance, occupancy monitoring, industrial safety, and IoT-enabled computer vision solutions for edge devices.
+- Performance: Cross-platform GPU acceleration (DirectML/CUDA), <500MB RAM usage, 10-30ms inference time per frame.
+- Tools: YOLOv8n, OpenCV, ONNX runtime, Python with minimal dependencies.
+<!-- ``` -->
+
+- EdgeAICam detection interface with real-time tracking
+  ![](demo/screenshot_demo.png)
+
+- Complete video demonstration showing system in action
+  <video src="demo/video_demo.mp4" controls width="100%" height="auto">
+    Your browser does not support the video tag. <a href="demo/video_demo.mp4">Download video</a>
+  </video>
+
+## Project 2: YouTube Channel Acquisition System
 To view the complete documentation: [Project README](./README_for_youtube_scrapper.md)
 
 <!-- ```markdown -->
@@ -22,7 +41,7 @@ To view the complete documentation: [Project README](./README_for_youtube_scrapp
 - Comprehensive channel data with contact information and acquisition potential<br>
   ![](./images/final%20output%20scrapped%20channels.png)
 
-## Project 2: Software Analysis and Design for Trading Cryptocurrency (Final Year Project, IIT Roorkee)
+## Project 3: Software Analysis and Design for Trading Cryptocurrency (Final Year Project, IIT Roorkee)
 To Download the complete PDF: [Project Report](./B_Tech_Project_Final_Report.pdf)
 
 <!-- ```markdown -->
@@ -38,7 +57,7 @@ To Download the complete PDF: [Project Report](./B_Tech_Project_Final_Report.pdf
 - Profit per Day comparison for machine learning strategies
 ![](./images/ml_ppd.png)
 
-## Project 3: [Decision Tree Steroid](https://github.com/ankitaharwal/Decision_Tree-Steroid) (Data Science Group, IIT Roorkee)
+## Project 4: [Decision Tree Steroid](https://github.com/ankitaharwal/Decision_Tree-Steroid) (Data Science Group, IIT Roorkee)
 To verify this certificate visit: [Link](https://ecertificate.iitr.ac.in/verification/6694e25f-3ec0-48b7-a168-c469dfd30ed7)
 
 <!-- ```markdown -->
@@ -59,7 +78,7 @@ of each node such as impurity, class distribution, etc.
 - Classification with logistic regression and standard node:
   ![](./images/working2.png)
 
-## Project 4: [D2l-PyTorch](https://github.com/dsgiitr/d2l-pytorch), Data Science Group, IIT Roorkee
+## Project 5: [D2l-PyTorch](https://github.com/dsgiitr/d2l-pytorch), Data Science Group, IIT Roorkee
 To verify this certificate visit: [Link](https://ecertificate.iitr.ac.in/verification/419fffae-e64d-46bc-930e-8b2e8f0e1df2)
 
 <!-- ```markdown -->
@@ -76,7 +95,7 @@ forks).
 
 
 
-## Project 5: [Number plate Detection](https://github.com/dsgiitr/np_detection), Data Science Group, IIT Roorkee
+## Project 6: [Number plate Detection](https://github.com/dsgiitr/np_detection), Data Science Group, IIT Roorkee
 To verify this certificate visit: [Link](https://ecertificate.iitr.ac.in/verification/2c5c8c95-0dd6-4ab2-bed7-8e74ded1812d)
 
 <!-- ```markdown -->

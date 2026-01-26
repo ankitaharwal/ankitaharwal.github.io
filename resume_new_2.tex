@@ -1,0 +1,184 @@
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.4in,top=0.4in,right=0.4in,bottom=0.4in]{geometry} 
+\usepackage{hyperref}
+\RequirePackage{fontawesome}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{ANKIT AHARWAL} 
+% \profile{ Data Scientist \textbar \space Software Engineer }
+\profile{ Data Scientist \textbar \space Generative AI Engineer }
+\address{+91 7440333991} 
+\address
+{
+        \href{mailto:ankitaharwalrko@gmail.com}{ankitaharwalrko@gmail.com} \\ \href{http://www.linkedin.com/in/ankit-aharwal-8b29b4118}{Linkedin} \\
+        \href{https://ankitaharwal.github.io/}{Projects}
+}
+
+
+\begin{document}
+\begin{rSection}{PROFILE SUMMARY}
+                
+        {
+        IIT Roorkee Alumni with a B.Tech in Computer Science \& Engineering and a strong foundation in Data Science.\newline
+Over two years of professional experience as a Data Scientist and Software Engineer, with expertise in leveraging data driven insights to drive business impact.\newline
+Designed and implemented solutions in data visualization, automation, scraping, large language models and predictive
+analytics.
+        }
+
+
+        
+                
+\end{rSection}
+\begin{rSection}{SKILLS}
+        {
+
+    \textbf{Programming \& Databases:} Python, SQL (MySQL, BigQuery)\\
+    \textbf{Data Science \& Analytics:} Data Analysis, Statistical Analysis (Scipy, Statsmodels), Feature Engineering, EDA (Autoviz)\\
+    \textbf{Visualization:} Plotly, Tableau, Seaborn, Matplotlib, Datadog Dashboards\\
+    \textbf{Machine Learning \& Computer Vision:} Scikit-learn, XGBoost, PyTorch, Keras, OpenCV, PySpark\\
+    \textbf{LLMs \& NLP:} LangChain, Chroma DB, GPT-4, OpenAI API, HuggingFace, NLTK, Spacy\\
+    \textbf{MLOps \& Data Engineering:} AWS Sagemaker, AWS S3, AWS EMR, Airflow, N8N, Docker, Kafka, Redis, Elasticsearch\\
+    \textbf{Software Engineering \& Tooling:} Linux, Docker, Node.js, React, Git, Bitbucket, ETL Pipelines, RESTful API
+}
+
+                
+                
+\end{rSection}
+
+\begin{rSection}{Education}
+                
+        {\bf B.Tech Computer Science \& Engineering}, Indian Institute of Technology, Roorkee \hfill {May 2018 - June 2022}\\
+        CGPA: 7.622
+                
+        {\bf Class XII}, Narmada Convent School, Barwani \hfill {March 2017 - April 2018}\\
+        Percentage: 88.40\%
+\end{rSection}
+
+\begin{rSection}{EXPERIENCE}
+
+\textbf{Data Science Associate (Contract)} \hfill April 2025 - August 2025\\
+Ubique Systems \hfill \textit{Pune}
+\begin{itemize}
+    \itemsep -3pt {}
+    \item \textbf{End-to-end ML pipeline:} Designed and productionized an XGBoost-based early lung-cancer detection pipeline including feature engineering, k-fold cross-validation, hyperparameter tuning (Bayesian/grid search), and robust class-imbalance strategies (SMOTE \& class weights).
+    \item \textbf{MLOps \& Automation:} Implemented Airflow DAGs for automated ETL, validation, model training, and scheduled retraining triggers, leveraging AWS SageMaker for scalable training jobs and model deployment. Used AWS S3 for model/artifact storage and Bitbucket for CI/CD integration.
+    \item \textbf{Model Quality \& Monitoring:} Built evaluation and monitoring tooling for AUC/PR-AUC, calibration checks, data-drift detection, and alerting to drive retraining decisions and ensure production reliability.    \item \textbf{Governance \& Reproducibility:} Authored reproducible runbooks, architecture diagrams, and PHI-compliance checklists to meet healthcare governance and audit requirements.
+    \item \textbf{Tools:} Python (Pandas, NumPy, scikit-learn, XGBoost), AWS Sagemaker, AWS S3, AWS EMR, MySQL, Bitbucket, Cloudgate.
+\end{itemize}
+
+
+                
+        \textbf{Data Scientist (Contract)} \hfill  April 2024 - January 2025\\
+        Highbrow Technology \hfill \textit{Remote}
+        \begin{itemize}
+                \itemsep -3pt {} 
+
+              \item \textbf{RAG \& LLM:} Implemented a Retrieval-Augmented Generation pipeline using LangChain Search for semantic retrieval and integrated GPT-4 \& Gemini for summarization, Q\&A, LLM fine-tuning, and knowledge extraction workflows.
+    \item \textbf{Prompt Engineering \& Evaluation:} Designed prompt templates, automated prompt-testing harnesses, and evaluation metrics for fidelity, relevance, and hallucination rate reduction.
+    \item \textbf{Document Ingestion \& OCR:} Built a preprocessing pipeline (OpenCV OCR + text cleaning) to convert scanned documents into indexed embeddings for semantic retrieval.
+    \item \textbf{Automation \& Tooling:} Developed Python ETL scripts to populate Google Sheets/Drive and created monitoring scripts to validate ingestion quality for downstream RAG.
+    \item \textbf{Tools:} LangChain, ChromaDB, GPT-4, Gemini, Python (OpenCV, Pandas), Google Sheets API, Google Cloud.
+                
+                                              
+        \end{itemize}
+        \textbf{Software Engineer (Data Engineering Focus)} \hfill July 2022 - March 2024\\
+        Twilio \hfill \textit{Bangalore}
+        \begin{itemize}
+                \itemsep -3pt {} 
+                                    
+                \item \textbf{ETL \& Automation:} Architected Airflow pipelines to move and transform logs from GCP BigQuery to AWS S3, enabling downstream analytics and ML workflows while reducing manual intervention.
+    \item \textbf{Real-time Analytics \& Streaming:} Implemented Apache Kafka producers/consumers and PySpark processing jobs for scalable event analytics and near-real-time monitoring.
+    \item \textbf{Monitoring \& Dashboards:} Designed and maintained 5 Tableau dashboards and Datadog alerts for real-time fraud/activity monitoring, optimized SQL queries for performant visualizations.
+    \item \textbf{API Development \& Quality:} Designed and implemented RESTful APIs and Golang microservices for data access with ReactJS frontend integration; enforced code quality via Jenkins CI and SonarQube.
+    \item \textbf{Performance Optimization:} Tuned Redis usage and implemented cleanup policies to lower cache churn and improve latency.
+    \item \textbf{Tools:} SQL, GCP (BigQuery), Python, Tableau, AWS S3, Airflow, RESTful APIs, Golang, Node.js, React, SonarQube, Elasticsearch, Redis, Kafka, PySpark, Datadog, Docker, Jenkins, Git.
+                                            
+        \end{itemize}
+                 
+        \textbf{Data Science Intern} \hfill June 2021 - August 2021\\
+        ZS Associates \hfill 
+        \begin{itemize}
+                \itemsep -3pt {} 
+                \item \textbf{Email Data Project:} Automated email data extraction and applied statistical techniques (A/B testing, CTR, ANOVA).
+                                            
+                \item \textbf{Recommendation System:} Built a pharmaceutical recommendation system with K-Means clustering and Keras.
+                                            
+                \item \textbf{Tools:} Python, Sklearn, Keras, Tensorflow, BeautifulSoup, NLTK, Scrapy, Scipy, and Statsmodels.
+                                            
+                                            
+        \end{itemize}
+                
+\end{rSection} 
+
+
+\begin{rSection}{PROJECTS \href{https://ankitaharwal.github.io/}{\faExternalLink}} 
+                
+        \item \textbf{YouTube Channel Acquisition System | Personal Project}
+        \begin{itemize}
+                \item Developed a comprehensive two-phase platform for identifying and acquiring inactive Indian YouTube channels as digital assets.\\
+                      Implemented AI-powered keyword generation with dual-mode scraping (channel-first + video-first discovery) and advanced filtering for inactivity assessment.
+                \item Built automated contact extraction and channel valuation system targeting 50K-1M subscriber channels with transferable content.\\
+                      Technologies: FastAPI, N8N, YouTube Data API, Pandas, and automated workflow orchestration.
+        \end{itemize}
+                
+        \item \textbf{Software Analysis and Design for Trading Cryptocurrency | IIT Roorkee}
+        \begin{itemize}
+                \item Identified profitable cryptocurrency trading strategies.\\
+                      Implemented traditional methods (SMAC, EMAC, RSI, MACD, Buy-and-Hold) and ML models (Logistic Regression, Random Forest, SVC, KNN, LSTM, Neural Networks).
+                      \item Evaluated performance using a profit-per-day metric with visual comparisons.\\
+                      Concluded that SMAC(5,15) and Buy-and-Hold yield the highest median of 4.2 profit per day.
+                \item Technologies: BeautifulSoup (scraping), Fastquant (back testing), Sklearn \& PyTorch (ML), Matplotlib (visualization).
+        \end{itemize}
+                
+        \item \textbf{Decision Tree Steroid | Data Science Group}
+        \begin{itemize}
+                \item Designed an Advanced Decision Tree capable of utilizing models like SVM, Neural Network, or a standard node.\\
+                 Technologies: Sklearn and Matplotlib.
+        \end{itemize}
+                
+        \item \textbf{Number Plate Detection | Data Science Group}
+        \begin{itemize}
+                \item Developed a real-time vehicle tracking and number plate detection system.\\
+                 Technologies: PyTorch, OpenCV, and YOLO for efficient detection and recognition.
+        \end{itemize}
+                  
+        \item \textbf{D2l-PyTorch | Data Science Group}
+        \begin{itemize}
+                \item Translated MXNet code into PyTorch for \textit{Dive into Deep Learning} book by Aston Jhang.\\
+                      Converted the book into an interactive Jupyter Notebook format and collaborated to maintain d2l-PyTorch on GitHub.
+                \item Technologies: Jupyter Notebook, MXNet, and PyTorch (Deep Learning).
+        \end{itemize}
+                
+\end{rSection}
+
+
+
+
+\begin{rSection}{AWARDS \href{https://ankitaharwal.github.io/awards}{\faExternalLink}} 
+                
+        \item \textbf{Winner, MIT Covid-19 Challenge}
+        \begin{itemize}
+                \item Team secured 1st position in the MIT Covid-19 Challenge, resulting in \$500 prize money.
+                \item Designed an AI-powered IVRS helpline, Suraksha Didi, for offline COVID-19 information access.
+        \end{itemize}
+\end{rSection}
+
+\begin{rSection}{POSITION OF RESPONSIBILITY} 
+
+    \item \textbf{Data Science Group (DSG), IIT Roorkee}
+    \begin{itemize}
+        \item Led collaborative AI and Machine Learning projects, mentoring peers on data-driven problem solving and research methodology.
+        \item Organized workshops and academic sessions on Data Science and AI, fostering applied learning and interdisciplinary collaboration.
+        \item Contributed to the development of internal curriculum material and open-source resources to support academic learning.
+    \end{itemize}
+
+    % \item \textbf{Pragati Cell, National Service Scheme (NSS), IIT Roorkee}
+    % \begin{itemize}
+    %     \item Advocated for education-focused social initiatives, promoting awareness of government policies supporting rural communities.
+    %     \item Collaborated with an NGO to collect and analyze data on rural education outcomes, applying data science principles for social impact.
+    %     \item Led grassroots-level outreach and awareness programs, aligning technical knowledge with societal development goals.
+    % \end{itemize}
+
+\end{rSection}
+\end{document}
